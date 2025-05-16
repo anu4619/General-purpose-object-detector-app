@@ -1,4 +1,4 @@
-package com.example.my_app
+package com.surendramaran.yolov8tflite
 
 import org.junit.Test
 
