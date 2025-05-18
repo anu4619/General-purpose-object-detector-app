@@ -141,7 +141,7 @@ class Detector(
                     BoundingBox(
                         x1 = x1, y1 = y1, x2 = x2, y2 = y2,
                         cx = cx, cy = cy, w = w, h = h,
-                        cnf = maxConf, cls = maxIdx, clsName = clsName
+                        conf = maxConf, cls = maxIdx, clsName = clsName
                     )
                 )
             }
@@ -153,7 +153,7 @@ class Detector(
     }
 
     private fun applyNMS(boxes: List<BoundingBox>) : MutableList<BoundingBox> {
-        val sortedBoxes = boxes.sortedByDescending { it.cnf }.toMutableList()
+        val sortedBoxes = boxes.sortedByDescending { it.conf }.toMutableList()
         val selectedBoxes = mutableListOf<BoundingBox>()
 
         while(sortedBoxes.isNotEmpty()) {

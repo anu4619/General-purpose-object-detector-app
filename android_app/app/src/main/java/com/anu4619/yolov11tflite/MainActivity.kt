@@ -21,6 +21,7 @@ import com.anu4619.yolov11tflite.Constants.MODEL_PATH
 import com.anu4619.yolov11tflite.databinding.ActivityMainBinding
 import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors
+import com.anu4619.yolov11tflite.BoundingBox
 
 class MainActivity : AppCompatActivity(), Detector.DetectorListener {
     private lateinit var binding: ActivityMainBinding

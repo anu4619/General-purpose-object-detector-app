@@ -1,6 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Standard Colors -->
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Bounding Box and UI Colors -->
     <color name="bounding_box_color">#234567</color>
+
+    <!-- Colors for Detected Classes -->
+    <color name="class_person_color">#FFFF0000</color>
+    <color name="class_bicycle_color">#FF00FF00</color>
+    <color name="class_car_color">#FF0000FF</color>
+    <color name="class_motorcycle_color">#9838B6</color>
+    <color name="class_airplane_color">#FF0DC5D7</color>
+    <color name="class_bus_color">#FF3FE5A6</color>
+    <color name="class_train_color">#FF524F91</color>
+    <color name="class_truck_color">#FF92842F</color>
+    <color name="class_boat_color">#FFC85AB1</color>
+    <color name="class_traffic_light_color">#DCC223</color>
+    <color name="class_fire_hydrant_color">#FF625FD0</color>
+    <color name="class_stop_sign_color">#FFB47035</color>
+    <color name="class_parking_meter_color">#FF02EBC0</color>
+    <color name="class_bench_color">#FFBDFBD6</color>
+    <color name="class_bird_color">#FFFF463E</color>
+    <color name="class_cat_color">#FF00FFFF</color>
+    <color name="class_dog_color">#FFFF00FF</color>
+    <color name="class_horse_color">#FF00B7C3</color>
+    <color name="class_sheep_color">#FF7D621E</color>
+    <color name="class_cow_color">#FFA7817A</color>
+    <color name="class_elephant_color">#FF03D651</color>
+    <color name="class_bear_color">#FFE888EC</color>
+    <color name="class_zebra_color">#FFEB91D4</color>
+    <color name="class_giraffe_color">#FFDB1A54</color>
+    <color name="class_backpack_color">#FF42CB5B</color>
+    <color name="class_umbrella_color">#FF7F5B46</color>
+    <color name="class_handbag_color">#FF539183</color>
+    <color name="class_tie_color">#FFD41210</color>
+    <color name="class_suitcase_color">#FF8978DF</color>
+    <color name="class_frisbee_color">#7352D5</color>
+    <color name="class_skis_color">#FFFFFF</color>
+    <color name="class_snowboard_color">#343FFF</color>
+    <color name="class_sports_ball_color">#FFF5032B</color>
+    <color name="class_kite_color">#FFD4C085</color>
+    <color name="class_baseball_bat_color">#FF9E200C</color>
+    <color name="class_baseball_glove_color">#FFD65D42</color>
+    <color name="class_skateboard_color">#FFD6475F</color>
+    <color name="class_surfboard_color">#C7421E</color>
+    <color name="class_tennis_racket_color">#FF65486F</color>
+    <color name="class_bottle_color">#FF537BA6</color>
+    <color name="class_wine_glass_color">#FF5E3BC0</color>
+    <color name="class_cup_color">#FF4ABBDA</color>
+    <color name="class_fork_color">#FF7CCAB1</color>
+    <color name="class_knife_color">#FF0BBDD1</color>
+    <color name="class_spoon_color">#FF6C3680</color>
+    <color name="class_bowl_color">#FF5B51D9</color>
+    <color name="class_banana_color">#FF408196</color>
+    <color name="class_apple_color">#FF688C10</color>
+    <color name="class_sandwich_color">#FF91258D</color>
+    <color name="class_orange_color">#FF735ED1</color>
+    <color name="class_broccoli_color">#FF84ED7E</color>
+    <color name="class_carrot_color">#FF1ABC37</color>
+    <color name="class_hot_dog_color">#FFC8BABC</color>
+    <color name="class_pizza_color">#FFB2D20B</color>
+    <color name="class_donut_color">#FFA4BD76</color>
+    <color name="class_cake_color">#FF9B4C24</color>
+    <color name="class_chair_color">#FF2D5EF1</color>
+    <color name="class_couch_color">#FFCA41F5</color>
+    <color name="class_potted_plant_color">#FF937714</color>
+    <color name="class_bed_color">#FFBF9365</color>
+    <color name="class_dining_table_color">#00FFBB</color>
+    <color name="class_toilet_color">#FF76AB92</color>
+    <color name="class_tv_color">#FF335E7F</color>
+    <color name="class_laptop_color">#FFF33A80</color>
+    <color name="class_mouse_color">#FF46E3CE</color>
+    <color name="class_remote_color">#FF34857D</color>
+    <color name="class_keyboard_color">#FF43DEEF</color>
+    <color name="class_cell_phone_color">#FF9CB34D</color>
+    <color name="class_microwave_color">#FFECBD0E</color>
+    <color name="class_oven_color">#FF038071</color>
+    <color name="class_toaster_color">#FF98528B</color>
+    <color name="class_sink_color">#FF8C53</color>
+    <color name="class_refrigerator_color">#FF956BF3</color>
+    <color name="class_book_color">#FFE84D3F</color>
+    <color name="class_clock_color">#FF6DF6B6</color>
+    <color name="class_vase_color">#FF79C83A</color>
+    <color name="class_scissors_color">#FF00D8</color>
+    <color name="class_teddy_bear_color">#FFEF866D</color>
+    <color name="class_hair_drier_color">#FF7D60EF</color>
+    <color name="class_toothbrush_color">#FF67C6FE</color>
 </resources>
