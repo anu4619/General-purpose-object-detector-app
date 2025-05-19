@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.surendramaran.yolov8tflite"
+    namespace = "com.anu4619.yolov11tflite"
     compileSdk = 34
 
     defaultConfig {
